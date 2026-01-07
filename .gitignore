@@ -13,3 +13,6 @@ CLAUDE.md
 # 忽略缓存文件
 __pycache__/
 *.py[cod]
+
+# 忽略 Serena 项目配置（本地开发环境）
+.serena/
